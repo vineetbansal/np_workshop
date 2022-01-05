@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vineetbansal/np_workshop.git/HEAD)
+
 # Introduction to Numpy
 
 These are jupyter notebooks for an introductory course on numpy.
@@ -14,3 +16,5 @@ Advanced users may just choose to install [Miniconda](https://docs.conda.io/en/l
 ```
 conda install numpy matplotlib notebook
 ```
+
+If you're still having trouble with launching the notebooks locally on your computer, try the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vineetbansal/np_workshop.git/HEAD) link that should launch an instance of Jupyter on the cloud.
