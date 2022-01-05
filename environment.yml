@@ -1,0 +1,8 @@
+name: np-workshop
+
+dependencies:
+  - numpy
+  - matplotlib
+  - notebook
+  - pip
+  - python
